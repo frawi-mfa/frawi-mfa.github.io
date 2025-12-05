@@ -1,2 +1,2 @@
-# frawi-mfa.gihub.io
+# frawi-mfa.github.io
 frawis site
